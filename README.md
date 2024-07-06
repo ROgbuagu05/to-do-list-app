@@ -4,7 +4,7 @@ This is a simple yet customizable Todo application built with React. It allows y
 
 ## Features
 
-In the project directory, these are the features of the application:
+In the project directory, these are the features of the application: \
     - Add new tasks \
     - Mark tasks as complete \
     - View a list of all tasks (completed and incomplete) \
@@ -20,7 +20,7 @@ This is required for development in React.
 
 ## Clone Repository
 
-In order to start the project, the repository has to be cloned. \
+In order to start the project, the repository has to be cloned.
 
 ### `Bash`
 
@@ -30,9 +30,9 @@ cd to-do-list-app
 
 ## Installation of Dependencies
 
-    - npm install \
+    - npm install
 
-    # OR \
+    # OR
 
     yarn install
 
