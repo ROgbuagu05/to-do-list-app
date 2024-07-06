@@ -80,7 +80,7 @@ Contributions are welcome! If you have any bug fixes, improvements, or new featu
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+The Todo List App is released under the MIT License. See the LICENSE file for more information.
 
 ## Contact
 
