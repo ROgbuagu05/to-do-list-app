@@ -14,7 +14,7 @@ In the project directory, these are the features of the application:
 
 Before you begin, ensure you have the following installed: \
     - Node.js \
-    - NPM or YARN \
+    - NPM or YARN
 
 This is required for development in React.
 
