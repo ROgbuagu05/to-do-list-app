@@ -47,44 +47,45 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Usage
 
-The app is straightforward. You can add new tasks by entering them in the input field \ and clicking the "Add Task" button. Existing tasks will be displayed in a list. Clicking on \ a task will mark it as complete, and a strikethrough will be applied to the text. Tasks can be deleted when all has been completed.
+The app is straightforward. You can add new tasks by entering them in the input field and clicking the "Add Task" button. Existing tasks will be displayed in a list. Clicking on a task will mark it as complete, and a strikethrough will be applied to the text. Tasks can be deleted when all has been completed.
 
-### `npm run build`
+## Deployment
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This is where the app is ready for production stage to the build folder. \
+This can be done using:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    npm run build
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    # OR
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    yarn build
 
-## Learn More
+The above builds the app for production. Then you can choose a hosting platform that supports static web applications (e.g., Netlify, Vercel, Github Pages)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Test
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To run test on the app:
 
-### Code Splitting
+    npm test
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+    OR
 
-### Analyzing the Bundle Size
+    yarn test
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+When you enter the command, it launches the test runner.
 
-### Making a Progressive Web App
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Contributions are welcome! If you have any bug fixes, improvements, or new features in mind, please feel free to fork the repository, make changes, and submit pull requests.
 
-### Advanced Configuration
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
-### Deployment
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+If you have any questions or suggestions, feel free to contact me at \
 
-### `npm run build` fails to minify
+<chizzy3003@gmail.com>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy coding!
