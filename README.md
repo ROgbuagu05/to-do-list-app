@@ -5,16 +5,16 @@ This is a simple yet customizable Todo application built with React. It allows y
 ## Features
 
 In the project directory, these are the features of the application:
-    - Add new tasks
-    - Mark tasks as complete
-    - View a list of all tasks (completed and incomplete)
+    - Add new tasks \
+    - Mark tasks as complete \
+    - View a list of all tasks (completed and incomplete) \
     - Clear completed tasks
 
 ## Prerequisites
 
 Before you begin, ensure you have the following installed: \
-    - Node.js
-    - NPM or YARN
+    - Node.js \
+    - NPM or YARN \
 
 This is required for development in React.
 
