@@ -30,7 +30,7 @@ In order to start the project, the repository has to be cloned.
 
     npm install
 
-    # OR
+    OR
 
     yarn install
 
@@ -38,7 +38,7 @@ In order to start the project, the repository has to be cloned.
 
     npm start
 
-    # OR
+    OR
 
     yarn start
 
@@ -56,7 +56,7 @@ This can be done using:
 
     npm run build
 
-    # OR
+    OR
 
     yarn build
 
@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at \
+If you have any questions or suggestions, feel free to contact me at
 
 <chizzy3003@gmail.com>
 
