@@ -22,11 +22,9 @@ This is required for development in React.
 
 In order to start the project, the repository has to be cloned.
 
-### `Bash`
-
-git clone <https://github.com/your-username/to-do-list-app.git>
-
-cd to-do-list-app
+    - git clone <https://github.com/your-username/to-do-list-app.git>
+    
+    - cd to-do-list-app
 
 ## Installation of Dependencies
 
