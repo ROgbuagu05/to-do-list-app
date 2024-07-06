@@ -1,18 +1,22 @@
-# Getting Started with Create React App
+# To-do React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple yet customizable Todo application built with React. It allows you to create, manage, and track your tasks efficiently.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+In the project directory, these are the features of the application:
+    - Add new tasks
+    - Mark tasks as complete
+    - View a list of all tasks (completed and incomplete)
+    - Clear completed tasks
 
-### `npm start`
+## Prerequisites
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Before you begin, ensure you have the following installed: \
+    - Node.js
+    - NPM or YARN
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This is required for development in React.
 
 ### `npm test`
 
