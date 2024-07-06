@@ -18,10 +18,23 @@ Before you begin, ensure you have the following installed: \
 
 This is required for development in React.
 
-### `npm test`
+## Clone Repository
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+In order to start the project, the repository has to be cloned. \
+
+### `Bash`
+
+git clone <https://github.com/your-username/to-do-list-app.git>
+
+cd to-do-list-app
+
+## Installation of Dependencies
+
+    - npm install \
+
+    # OR \
+
+    yarn install
 
 ### `npm run build`
 
