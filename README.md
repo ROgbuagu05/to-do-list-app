@@ -4,7 +4,7 @@ This is a simple yet customizable Todo application built with React. It allows y
 
 ## Features
 
-In the project directory, these are the features of the application: \
+In the project, these are the features of the application: \
     - Add new tasks \
     - Mark tasks as complete \
     - View a list of all tasks (completed and incomplete) \
@@ -22,29 +22,34 @@ This is required for development in React.
 
 In order to start the project, the repository has to be cloned.
 
-    - git clone <https://github.com/your-username/to-do-list-app.git>
-    
-    - cd to-do-list-app
+    git clone <https://github.com/your-username/to-do-list-app.git>
+
+    cd to-do-list-app
 
 ## Installation of Dependencies
 
-    - npm install
+    npm install
 
     # OR
 
     yarn install
 
+## Starting Development Server
+
+    npm start
+
+    # OR
+
+    yarn start
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Usage
+
+The app is straightforward. You can add new tasks by entering them in the input field \ and clicking the "Add Task" button. Existing tasks will be displayed in a list. Clicking on \ a task will mark it as complete, and a strikethrough will be applied to the text. Tasks can be deleted when all has been completed.
+
 ### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
